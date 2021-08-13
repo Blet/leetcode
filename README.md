@@ -4,3 +4,5 @@
 |  ----  | ----  | ----  | ----  | ----  | ---- | 
 | 链表 | [LeetCode 19](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) | 打卡 |打卡  |  | | 
 | 链表 | [LeetCode 83](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/submissions/) | 打卡 |  | | | 
+| 链表 | [LeetCode 61](https://leetcode-cn.com/problems/rotate-list/submissions/) | 打卡 |  | | | 
+
