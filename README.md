@@ -9,9 +9,9 @@
 | 链表 | [LeetCode 92 reverse-linked-list-ii](https://leetcode-cn.com/problems/reverse-linked-list-ii/) | 
 | 链表 | [LeetCode 160 intersection-of-two-linked-lists](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/) | 
 | 链表 | [LeetCode 142 linked-list-cycle-ii](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | 
-| 链表 | [LeetCode 98 validate-binary-search-tree](https://leetcode-cn.com/problems/validate-binary-search-tree/) | 
-| 链表 | [LeetCode 94 binary-tree-inorder-traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | 
-| 链表 | [LeetCode 101 symmetric-tree](https://leetcode-cn.com/problems/symmetric-tree/) | 
+| 树 | [LeetCode 98 validate-binary-search-tree](https://leetcode-cn.com/problems/validate-binary-search-tree/) | 
+| 树 | [LeetCode 94 binary-tree-inorder-traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | 
+| 树 | [LeetCode 101 symmetric-tree](https://leetcode-cn.com/problems/symmetric-tree/) | 
 
 
 
